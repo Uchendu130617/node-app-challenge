@@ -31,7 +31,7 @@ jobs:
 
         script: |
 
-          cd node-app
+          cd node-app-challenge
 
           git pull origin master
 
